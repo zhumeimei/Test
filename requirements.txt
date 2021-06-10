@@ -7,7 +7,7 @@ chardet==3.0.4
 cloudpickle==0.5.2
 cycler==0.10.0
 decorator==4.2.1
-Django==1.10.6
+Django==2.2.24
 docutils==0.14
 entrypoints==0.2.3
 html5lib==1.0.1
